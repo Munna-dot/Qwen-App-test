@@ -1,0 +1,33 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+*.js
+*.css
+*.html
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+```
